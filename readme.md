@@ -2,7 +2,7 @@
 Program blurs out parts of an image that may reveal personal health information using a combination of detection models.
 
 ## Setup
-Requires python versions **3.8.10** and **3.7.4**
+Requires python versions **3.8.10** and **3.7.4**, and the following instructions are for Windows only
 
 Each folder in the models directory requires a venv of it's own, since each model requires specific libraries to run, use the exact python.exe from the source folder for your python installations. On Windows you can find this by running the following in command prompt.
 ``` 
