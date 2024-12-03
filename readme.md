@@ -2,6 +2,7 @@
 
 Program blurs out parts of an image that may reveal personal health information using a combination of detection models.
 
+
 #Setup
 Requires python versions **3.8.10** an **3.7.4**
 
