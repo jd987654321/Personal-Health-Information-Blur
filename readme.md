@@ -1,9 +1,9 @@
-##Personal Health Information Blur
+## Personal Health Information Blur
 
 Program blurs out parts of an image that may reveal personal health information using a combination of detection models.
 
 
-#Setup
+# Setup
 Requires python versions **3.8.10** an **3.7.4**
 
 Each folder in the models directory requires a venv of it's own, since each model requires specific libraries to run, use the exact python.exe from where the source folder for your python installations.
@@ -17,3 +17,7 @@ mtcnn
 craft
 paddle_ocr
 retina_face
+
+# Running the main.py
+
+`python main.py [input folder] [output_folder]`
