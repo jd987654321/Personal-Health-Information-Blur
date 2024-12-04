@@ -32,3 +32,5 @@ Follow this list when deciding which version of python to use for each model
 ## Running the main.py
 
 ` python main.py [input folder] [output_folder] `
+
+## Disclaimer, files in the craft folder are not mine, they are taken directly from the CRAFT text model repo, you can check them out at [the link](https://github.com/clovaai/CRAFT-pytorch)
